@@ -1,3 +1,5 @@
+test_on: 'windows'
+
 tags:
  tag1:
  tag2:
@@ -6,4 +8,5 @@ tags:
  tag5:
  tag6:
  tag7:
+  skip: 'tag7 tag are skipped'
  
