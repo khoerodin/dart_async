@@ -1,4 +1,4 @@
-test_on: 'windows'
+test_on: 'mac-os'
 
 tags:
  tag1:
